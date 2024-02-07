@@ -53,3 +53,7 @@ __git remote show <remote>__ нужна, если вы хотите получи
 
 Внесенные изменения в сторонний репозиторий
 ![image](https://github.com/CatherinaCP/Testgit/assets/159249068/a262a0b4-3c14-4ba4-848a-94f56f85ec7b)
+
+
+Загрузка в локальный файл изменений из удаленного репозитория
+![alt text](image.png)
