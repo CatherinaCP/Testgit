@@ -56,4 +56,4 @@ __git remote show <remote>__ нужна, если вы хотите получи
 
 
 Загрузка в локальный файл изменений из удаленного репозитория
-![alt text](image.png)
+![Снимок экрана 2024-02-07 141817](https://github.com/CatherinaCP/Testgit/assets/159249068/6fcf26fb-f36f-453b-997d-2e86c9f7b699)
